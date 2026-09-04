@@ -31,7 +31,8 @@ maintainability, performance, and usability.
 - GitHub Pages
 
 ## Live Website
-[GitHub Pages URL](PASTE-YOUR-GITHUB-PAGES-URL-HERE)
+
+[Visit Pangasinan Heritage Website](https://jaymarkk.github.io/pangasinan-heritage/)
 
 ## Features
 
